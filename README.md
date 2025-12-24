@@ -84,4 +84,3 @@ gemini prompts including web
     交互映射：
     将手掌中心 (Landmark 9) 的标准化 X/Y 坐标，映射为 3D 场景根容器 (mainGroup) 的 rotation.y 和 rotation.x。
     请输出完整的、包含所有这些细节的单文件 HTML 代码。
-</details>
